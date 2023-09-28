@@ -1,0 +1,6 @@
+{
+  "extends": ["cvs"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  }
+}
